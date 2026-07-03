@@ -19,7 +19,7 @@ Stary Signals - Video Game prototype
 <img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/CityScape-V7.png" width="700" height="500">
 <img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Cafe_wall_Night_1920x1080.png" width="700" height="500"> 
 
-<img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Blue-cat-V1.png" width="400" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Orange-V1.png" width="400" height="500">
+<img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Blue-cat-V1.png" width="400" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Orange-V1.png" width="400" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/9abacd560003d6c248d12d36b8e609a505a82fdd/Red-V1.png" width="400" height="500">
 ****
 
 Personal Works
