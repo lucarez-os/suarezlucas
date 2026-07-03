@@ -10,19 +10,19 @@ See bi-weekly updates on my instagram: https://www.instagram.com/lusucasarez/
 
 Forks of Fate - TTRPG Concept Pitch
 
-<img src="Art-choke-yu.png" width="400" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Beef-o-lo.png" width="400" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Brocculus.png" width="300" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/51bac5cefeef37d715ca4effc0526f775624a2b2/Pumpkin.png" width="400" height="500">   <img src="https://github.com/lucarez-os/suarezlucas/blob/51bac5cefeef37d715ca4effc0526f775624a2b2/Spaghetti.png" width="400" height="500">
+<img src="Art-choke-yu.png" width="400" height="500"> <img src="Beef-o-lo.png" width="400" height="500"> <img src="Brocculus.png" width="300" height="500"> <img src="Pumpkin.png" width="400" height="500">   <img src="Spaghetti.png" width="400" height="500">
 
 ****
 
 Stary Signals - Video Game prototype
 
-<img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/CityScape-V7.png" width="700" height="500">
-<img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Cafe_wall_Night_1920x1080.png" width="700" height="500"> 
+<img src="CityScape-V7.png" width="700" height="500">
+<img src="Cafe_wall_Night_1920x1080.png" width="700" height="500"> 
 
-<img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Blue-cat-V1.png" width="400" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/4674e8809817082b11e933695f1f9be3bc5f0a9d/Orange-V1.png" width="400" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/9abacd560003d6c248d12d36b8e609a505a82fdd/Red-V1.png" width="400" height="500">
+<img src="Blue-cat-V1.png" width="400" height="500"> <img src="Orange-V1.png" width="400" height="500"> <img src="Red-V1.png" width="400" height="500">
 ****
 
 Personal Works
 
-<img src="https://github.com/lucarez-os/suarezlucas/blob/51bac5cefeef37d715ca4effc0526f775624a2b2/IMG_0284.jpeg" width="400" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/51bac5cefeef37d715ca4effc0526f775624a2b2/IMG_0356.jpeg" width="400" height="500"> <img src="https://github.com/lucarez-os/suarezlucas/blob/51bac5cefeef37d715ca4effc0526f775624a2b2/IMG_0378.jpeg" width="400" height="500"> 
+<img src="IMG_0284.jpeg" width="400" height="500"> <img src="IMG_0356.jpeg" width="400" height="500"> <img src="IMG_0378.jpeg" width="400" height="500"> 
 
